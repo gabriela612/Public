@@ -1,0 +1,170 @@
+﻿  Domain.cpp
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(9,9): error C3646: 'titlu': unknown override specifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(9,14): error C2059: syntax error: ','
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(9,30): error C2238: unexpected token(s) preceding ';'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(13,25): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(14,17): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(15,21): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(16,15): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(19,17): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(20,21): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(21,15): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(7,8): error C2039: 'titlu': is not a member of 'Activitate'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(6,7): message : see declaration of 'Activitate'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(8,8): error C2039: 'descriere': is not a member of 'Activitate'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(6,7): message : see declaration of 'Activitate'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(9,8): error C2039: 'tip': is not a member of 'Activitate'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(6,7): message : see declaration of 'Activitate'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(14,43): error C2761: 'void Activitate::creare_activitate(void)': redeclaration of member is not allowed
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(14,36): error C2065: 'string': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(14,43): error C2146: syntax error: missing ')' before identifier 'titlu'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(15,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(15,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(23,35): error C2761: 'void Activitate::get_titlu(void)': redeclaration of member is not allowed
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(23,28): error C2065: 'string': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(23,35): error C2146: syntax error: missing ')' before identifier 'copie'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(24,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(24,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(28,39): error C2761: 'void Activitate::get_descriere(void)': redeclaration of member is not allowed
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(28,32): error C2065: 'string': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(28,39): error C2146: syntax error: missing ')' before identifier 'copie'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(29,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(29,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(33,33): error C2761: 'void Activitate::get_tip(void)': redeclaration of member is not allowed
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(33,26): error C2065: 'string': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(33,33): error C2146: syntax error: missing ')' before identifier 'copie'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(34,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(34,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(48,35): error C2761: 'void Activitate::set_titlu(void)': redeclaration of member is not allowed
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(48,28): error C2065: 'string': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(48,35): error C2146: syntax error: missing ')' before identifier 'titlu_nou'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(49,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(49,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(53,39): error C2761: 'void Activitate::set_descriere(void)': redeclaration of member is not allowed
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(53,32): error C2065: 'string': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(53,39): error C2146: syntax error: missing ')' before identifier 'descriere_noua'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(54,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(54,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(58,33): error C2761: 'void Activitate::set_tip(void)': redeclaration of member is not allowed
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(58,26): error C2065: 'string': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(58,33): error C2146: syntax error: missing ')' before identifier 'tip_nou'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(59,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(59,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(82,2): error C2065: 'string': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(82,9): error C2146: syntax error: missing ';' before identifier 'titlu1'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(82,9): error C2065: 'titlu1': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(82,22): error C2065: 'descriere1': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(82,39): error C2065: 'tip1': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(83,2): error C2065: 'string': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(83,9): error C2146: syntax error: missing ';' before identifier 'titlu2'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(83,9): error C2065: 'titlu2': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(83,22): error C2065: 'descriere2': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(83,39): error C2065: 'tip2': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(84,17): error C2065: 'titlu1': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(85,21): error C2065: 'descriere1': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(86,15): error C2065: 'tip1': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(87,17): error C2065: 'titlu2': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(88,21): error C2065: 'descriere2': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(89,15): error C2065: 'tip2': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(90,6): error C2065: 'titlu1': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(90,16): error C2065: 'titlu2': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(90,27): error C2065: 'descriere1': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(90,41): error C2065: 'descriere2': undeclared identifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(90,53): error C2059: syntax error: '&&'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.cpp(90,112): error C2059: syntax error: ')'
+  Lab 6-7.cpp
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(9,9): error C3646: 'titlu': unknown override specifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(9,14): error C2059: syntax error: ','
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(9,30): error C2238: unexpected token(s) preceding ';'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(13,25): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(14,17): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(15,21): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(16,15): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(19,17): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(20,21): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(21,15): error C2061: syntax error: identifier 'string'
+  Repo.cpp
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(9,9): error C3646: 'titlu': unknown override specifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(9,14): error C2059: syntax error: ','
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(9,30): error C2238: unexpected token(s) preceding ';'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(13,25): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(14,17): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(15,21): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(16,15): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(19,17): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(20,21): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(21,15): error C2061: syntax error: identifier 'string'
+  Service.cpp
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(9,9): error C3646: 'titlu': unknown override specifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(9,14): error C2059: syntax error: ','
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(9,30): error C2238: unexpected token(s) preceding ';'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(13,25): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(14,17): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(15,21): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(16,15): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(19,17): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(20,21): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(21,15): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Service.cpp(12,5): error C2660: 'Activitate::creare_activitate': function does not take 5 arguments
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(13,7): message : see declaration of 'Activitate::creare_activitate'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Service.cpp(12,5): message : while trying to match the argument list '(std::string, std::string, std::string, int, int)'
+  UI.cpp
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(9,9): error C3646: 'titlu': unknown override specifier
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(9,14): error C2059: syntax error: ','
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(9,30): error C2238: unexpected token(s) preceding ';'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(13,25): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(14,17): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(15,21): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(16,15): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(19,17): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(20,21): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(21,15): error C2061: syntax error: identifier 'string'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\UI.cpp(29,5): error C2665: 'std::basic_istream<char,std::char_traits<char>>::getline': no overloaded function could convert all the argument types
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\istream(440,39): message : could be 'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::getline(_Elem *,std::streamsize)'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\UI.cpp(29,5): message : 'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::getline(_Elem *,std::streamsize)': cannot convert argument 1 from 'std::string' to '_Elem *'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\UI.cpp(29,14): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\UI.cpp(29,5): message : while trying to match the argument list '(std::string, int)'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\UI.cpp(31,5): error C2665: 'std::basic_istream<char,std::char_traits<char>>::getline': no overloaded function could convert all the argument types
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\istream(440,39): message : could be 'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::getline(_Elem *,std::streamsize)'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\UI.cpp(31,5): message : 'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::getline(_Elem *,std::streamsize)': cannot convert argument 1 from 'std::string' to '_Elem *'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\UI.cpp(31,14): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\UI.cpp(31,5): message : while trying to match the argument list '(std::string, int)'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\UI.cpp(33,5): error C2665: 'std::basic_istream<char,std::char_traits<char>>::getline': no overloaded function could convert all the argument types
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\istream(440,39): message : could be 'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::getline(_Elem *,std::streamsize)'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\UI.cpp(33,5): message : 'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::getline(_Elem *,std::streamsize)': cannot convert argument 1 from 'std::string' to '_Elem *'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\UI.cpp(33,14): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\UI.cpp(33,5): message : while trying to match the argument list '(std::string, int)'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\UI.cpp(88,7): error C2660: 'Activitate::get_titlu': function does not take 1 arguments
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(14,7): message : see declaration of 'Activitate::get_titlu'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\UI.cpp(88,7): message : while trying to match the argument list '(char [30])'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\UI.cpp(89,7): error C2660: 'Activitate::get_descriere': function does not take 1 arguments
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(15,7): message : see declaration of 'Activitate::get_descriere'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\UI.cpp(89,7): message : while trying to match the argument list '(char [500])'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\UI.cpp(90,7): error C2660: 'Activitate::get_tip': function does not take 1 arguments
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\Domain.h(16,7): message : see declaration of 'Activitate::get_tip'
+C:\Users\gabig\Desktop\OOP\Lab 6-7\Lab 6-7\UI.cpp(90,7): message : while trying to match the argument list '(char [30])'
+  Generating Code...
