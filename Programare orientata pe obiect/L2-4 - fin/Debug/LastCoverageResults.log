@@ -1,0 +1,33 @@
+[2023-03-24 10:09:06] [info] Start Program:
+Path:"C:\Users\gabig\Desktop\OOP\L2-4 - Copy\Debug\L2-4.exe"
+Arguments:
+Working directory: "C:\Users\gabig\Desktop\OOP\L2-4 - Copy\Debug"
+Modules: Selected: * Excluded: 
+Sources: Selected: * Excluded: UI.c stdio.h string.h assert.h stdlib.h 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\gabig\AppData\Local\Temp\ixxjgpof.41n 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-03-24 10:09:06] [info] Module: C:\Users\gabig\Desktop\OOP\L2-4 - Copy\Debug\L2-4.exe is selected because it matches selected pattern: *
+[2023-03-24 10:09:06] [info] Module: C:\Windows\System32\ntdll.dll is selected because it matches selected pattern: *
+[2023-03-24 10:09:06] [info] Module: C:\Windows\SysWOW64\ntdll.dll is selected because it matches selected pattern: *
+[2023-03-24 10:09:06] [info] Module: C:\Windows\System32\wow64.dll is selected because it matches selected pattern: *
+[2023-03-24 10:09:06] [info] Module: C:\Windows\System32\wow64win.dll is selected because it matches selected pattern: *
+[2023-03-24 10:09:06] [info] Module: C:\Windows\System32\wow64cpu.dll is selected because it matches selected pattern: *
+[2023-03-24 10:09:06] [info] Module: C:\Windows\SysWOW64\kernel32.dll is selected because it matches selected pattern: *
+[2023-03-24 10:09:06] [info] Module: C:\Windows\SysWOW64\KernelBase.dll is selected because it matches selected pattern: *
+[2023-03-24 10:09:06] [info] Module: C:\Windows\SysWOW64\vcruntime140d.dll is selected because it matches selected pattern: *
+[2023-03-24 10:09:06] [info] Module: C:\Windows\SysWOW64\ucrtbased.dll is selected because it matches selected pattern: *
+[2023-03-24 10:09:06] [info] Module: C:\Windows\SysWOW64\kernel.appcore.dll is selected because it matches selected pattern: *
+[2023-03-24 10:09:06] [info] Module: C:\Windows\SysWOW64\msvcrt.dll is selected because it matches selected pattern: *
+[2023-03-24 10:09:06] [info] Module: C:\Windows\SysWOW64\rpcrt4.dll is selected because it matches selected pattern: *
+[2023-03-24 10:09:06] [info] ----------------------------------------------------
+[2023-03-24 10:09:06] [info] Coverage binary generated in file: C:\Users\gabig\AppData\Local\Temp\ixxjgpof.41n
+[2023-03-24 10:09:06] [info] ----------------------------------------------------

@@ -1,0 +1,3 @@
+﻿  Repo.c
+C:\Users\gabig\Desktop\OOP\L2-4\L2-4\Repo.c(31,2): warning C4013: 'printf' undefined; assuming extern returning int
+  L2-4.vcxproj -> C:\Users\gabig\Desktop\OOP\L2-4\x64\Debug\L2-4.exe
