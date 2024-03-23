@@ -1,0 +1,36 @@
+2 184
+Cristian
+2 176
+Mara
+2 96
+Gabriela
+2 80
+George
+3 77
+Misu_lucu1
+2 44
+Mihai
+3 28
+George
+3 12
+Tudor
+3 10
+Mara
+3 10
+Iulia
+3 10
+Antal
+3 4
+Andrei
+3 3
+Alin
+3 3
+Mihai
+3 2
+Florina
+3 2
+Ion
+3 1
+Ana
+3 0
+ceva

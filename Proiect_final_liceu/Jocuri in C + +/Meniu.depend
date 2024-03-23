@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1647589577 source:d:\varga gabriela xi d\meniu\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	<cstdlib>
+
+1647595888 source:d:\varga gabriela xii d\meniu\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	<cstdlib>
+
+1648021264 source:d:\varga gabriela\meniu\main.cpp
+	<iostream>
+	<algorithm>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	<cstdlib>
+
+1649174155 source:c:\users\gabig\desktop\atestat\noi\meniu\main.cpp
+	<iostream>
+	<algorithm>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	<cstdlib>
+
