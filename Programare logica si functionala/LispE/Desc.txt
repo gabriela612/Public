@@ -1,0 +1,4 @@
+cd c:\LispE
+c:\clisp-2.30\lisp -B "C:/clisp-2.30/" -M "C:\clisp-2.30\lispinit.mem"
+
+(load "nume_fisier.lisp")
