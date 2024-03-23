@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 Programare[[:space:]]orientata[[:space:]]pe[[:space:]]obiect filter=lfs diff=lfs merge=lfs -text
+Programare[[:space:]]orientata[[:space:]]pe[[:space:]]obiect/Tqtvs/ filter=lfs diff=lfs merge=lfs -text
