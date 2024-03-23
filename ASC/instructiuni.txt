@@ -1,0 +1,3 @@
+nasm tfa.asm -fwin32 -o tfa.obj
+
+cl tfc.c /link tfa.obj
