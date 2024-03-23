@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.retea_login.prieteni.CereriPrietenieController">
+    <children>
+        <Button layoutX="333.0" layoutY="21.0" mnemonicParsing="false" prefHeight="49.0" prefWidth="235.0" text="Cereri de prietenie" fx:id="buttonAici">
+            <font>
+                <Font name="System Bold" size="20.0" />
+            </font>
+        </Button>
+        <Button layoutX="165.0" layoutY="21.0" mnemonicParsing="false" prefHeight="49.0" prefWidth="137.0" text="Sugestii" onAction="#initSugestii">
+            <font>
+                <Font name="System Bold" size="20.0" />
+            </font>
+        </Button>
+        <Button layoutX="31.0" layoutY="21.0" mnemonicParsing="false" prefHeight="49.0" prefWidth="103.0" text="Prieteni" onAction="#initMain">
+            <font>
+                <Font name="System Bold" size="20.0" />
+            </font>
+        </Button>
+        <TableView layoutX="31.0" layoutY="113.0" prefHeight="252.0" prefWidth="402.0" fx:id="friendsTable">
+            <columns>
+                <TableColumn prefWidth="201.99996948242188" text="Prenume" fx:id="prenumePrieten"/>
+                <TableColumn prefWidth="198.66668701171875" text="Nume" fx:id="numePrieten"/>
+            </columns>
+        </TableView>
+        <Button layoutX="488.0" layoutY="200.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="71.0" text="Accepta" onAction="#handleAcceptPrieten" />
+      <Button layoutX="488.0" layoutY="252.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="71.0" text="Respinge" onAction="#handleRejectPrieten"/>
+    </children>
+</AnchorPane>

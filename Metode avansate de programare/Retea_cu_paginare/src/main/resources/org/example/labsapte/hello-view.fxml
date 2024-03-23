@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.gluonhq.charm.glisten.control.CardPane?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" prefHeight="526.0" prefWidth="630.0" spacing="20.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/21" fx:controller="org.example.labsapte.HelloController">
+  <padding>
+    <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+  </padding>
+
+  <Label fx:id="welcomeText" />
+   <CardPane prefHeight="132.0" prefWidth="300.0">
+       <Label style="-fx-padding:10;" text="label1" />
+       <Label style="-fx-padding:10;" text="label2" />
+       <Label style="-fx-padding:10;" text="label3" />
+   </CardPane>
+  <Button onAction="#onHelloButtonClick" prefHeight="74.0" prefWidth="77.0" text="Hello!" />
+</VBox>

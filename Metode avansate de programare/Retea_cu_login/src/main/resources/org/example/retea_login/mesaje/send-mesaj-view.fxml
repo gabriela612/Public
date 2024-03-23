@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.retea_login.mesaje.SendMesajController">
+   <children>
+      <Button onAction="#handleAdd" layoutX="274.0" layoutY="115.0" mnemonicParsing="false" text="&gt;&gt;&gt;&gt;" />
+      <Button onAction="#handleRm" layoutX="274.0" layoutY="174.0" mnemonicParsing="false" text="&lt;&lt;&lt;&lt;" />
+      <TextArea fx:id="textMesajNou" layoutX="30.0" layoutY="290.0" prefHeight="81.0" prefWidth="467.0" />
+      <Button onAction="#handleSave" layoutX="518.0" layoutY="319.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="49.0" text="Send" />
+      <Label layoutX="115.0" layoutY="23.0" text="Prieteni">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Label>
+      <Label layoutX="417.0" layoutY="23.0" text="Destinatari">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Label>
+      <TableView fx:id="allFriendsTable" layoutX="44.0" layoutY="59.0" prefHeight="200.0" prefWidth="200.0">
+        <columns>
+          <TableColumn fx:id="allNumePrieten" prefWidth="198.66665649414062" text="Nume intreg" />
+        </columns>
+      </TableView>
+      <TableView fx:id="selFriendsTable" layoutX="357.0" layoutY="59.0" prefHeight="200.0" prefWidth="200.0">
+        <columns>
+          <TableColumn fx:id="selNumePrieten" prefWidth="196.66668701171875" text="Nume intreg" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>
