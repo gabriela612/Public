@@ -2,8 +2,10 @@ Liceu:
 	Pe parcursul liceului am invatat si exersat cateva concepte de programare in C++. In cei patru ani de liceu, pasiunea pe care o aveam pentru informatica m-a impins sa incerc sa realizez 2-3 joculete intr-o interfata de tip consola (pentru ca doar cu asta am fost familiara). La finalul liceului a trebuit sa facem un proiect digital. In acel proiect am ales sa implementez 3 joculete (Spanzuratoarea, Tetris si Quiz cu intrebari de cultura generala) intr-o interfata de tip consola, rezultatul fiind unul destul de bun tinand cont de faptul ca proiectul a fost implementat intr-un singur fisier si nu am folosit clase sau principii de oop.
 	
 Facultate:
+	
 	La Arhitectura sistemelor de calcul am descoperit importanta comentariilor in cod, ce structura are procesorul, limbajul de asamblare pe 32 de biti si am inteles ce este in spatele anumitor concepte pe care se bazeaza cateva instructiuni si notiuni folosite frecvent de un programator.
-	La fp am inceput sa ne gandim la dezvoltarea unui proiect pe termen mediu si lung, la testarea functionalitatilor, la organizarea codului sursa a proiectului (arhitectura stratificata) si dezvoltarea acestuia astfel incat sa fie cat mai usor de inteles si modificat de o alta persoana. Limbajul folosit a fost Python.
+	
+ 	La fp am inceput sa ne gandim la dezvoltarea unui proiect pe termen mediu si lung, la testarea functionalitatilor, la organizarea codului sursa a proiectului (arhitectura stratificata) si dezvoltarea acestuia astfel incat sa fie cat mai usor de inteles si modificat de o alta persoana. Limbajul folosit a fost Python.
 	
 	La Programare orientata pe obiect am facut o comparatie intre un proiect in C scris netinand cont de principiile de oop si un cod scris in C++ respecand principiile de oop. Prin comparatie am reusit sa ne dam seama de nevoia introducerii notiunilor si principiilor de oop. De asemenea, am invatat avantajele si dezavantajele libertatii pe care limbajul C++ o ofera programatorului in vederea gestionairii memoriei folosite si a operarii cu adrese de memorie. Spre finalul semestrului am facut si interfete grafice folosing qt.
 	
