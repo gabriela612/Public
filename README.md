@@ -14,7 +14,7 @@ La Sisteme de operare ne-am familiarizat cu linia de comanda din linux, am scris
 
 La Structuri de date si algoritmi am invatat structuri de date, importanta implementarii eficiente a unei structuride date si, atat avantajele, cat si dezvavantajele folosirii unei anumite structuri de date in detrimentul alteia.
 
-La Baze de date am invatat niste principii de proiectare a unei baze de date, relatiile care pot aparea intre entitati, sa scriem proceduri si functii si sa folosim indecsi pentru a accelera operațiile de căutare și interogare asupra datelor.
+La Baze de date am invatat niste principii de proiectare a unei baze de date, relatiile care pot aparea intre entitati, sa scriem proceduri si functii si sa folosim indecsi pentru a accelera operațiile de căutare și interogare asupra datelor. Pe parcursul semestrului ne-am familiarizat cu Microsoft SQL Server.
 
 La Metode avansate de programare am invatat si folosit cateva design pattern-uri, am conectat proiectul nostru la o baza de date si am simulat dezvoltarea unei retele de socializare in java, folosind javafx pentru interfata cu utilizatorul. La final de semestru am dezvoltat si o aplicatie in C# pentru a vedea diferentele si asemanarile dintre limbaje, dar si ca modul de dezvoltarea este acelasi.
 
